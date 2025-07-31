@@ -1,6 +1,6 @@
-# 🤖 Discord Bot - Telles Store
+# 🤖 Discord Bot - Codex Store
 
-Este projeto é um **bot para Discord** desenvolvido para a **Telles Store**, com funcionalidades voltadas para **boas-vindas de usuários, exibição de termos de compra**, sistema de **tickets de suporte**, e **automação de permissões**.
+Este projeto é um **bot para Discord** desenvolvido para a **Codex Store**, com funcionalidades voltadas para **boas-vindas de usuários, exibição de termos de compra**, sistema de **tickets de suporte**, e **automação de permissões**.
 
 ## 🚀 Funcionalidades
 
